@@ -1,0 +1,63 @@
+            *************************************************************
+			*                      APPOINTMENT                          *
+			*************************************************************
+DOCTOR ID :	001
+DOCTOR NAME :	Ahmad
+DOCTOR SPECIALIZATION :	lungs
+APPOINTMENT SLOT : 1pm-2pm
+*****************PATIENT**********************
+PATIENT ID :	001
+PATIENT PASSWORD :	12345
+PATIENT NAME :	nayab
+PATIENT ADDRESS :	subhan town near board office street no 12 gujranwala
+PATIENT MOBILE NUMBER :	34843002477
+PATIENT AGE :	21
+PATIENT DISEASE :	lungs
+PATIENT ROOM :	1
+PATIENT CONDITION :	normal
+PATIENT ADMIT DATE :	12-3-2022
+PATIENT ROOM CHARGE :	121
+PATIENT MEDICINE CHARGE :	1212
+PATIENT BED :	1
+			*************************************************************
+			*                      APPOINTMENT                          *
+			*************************************************************
+DOCTOR ID :	001
+DOCTOR NAME :	Ahmad
+DOCTOR SPECIALIZATION :	lungs
+APPOINTMENT SLOT : 3pm-4pm
+*****************PATIENT**********************
+PATIENT ID :	002
+PATIENT PASSWORD :	098765
+PATIENT NAME :	sehar
+PATIENT ADDRESS :	kamoki
+PATIENT MOBILE NUMBER :	3434343434344
+PATIENT AGE :	21
+PATIENT DISEASE :	legs problem
+PATIENT ROOM :	2
+PATIENT CONDITION :	normal
+PATIENT ADMIT DATE :	3-3-2022
+PATIENT ROOM CHARGE :	2122
+PATIENT MEDICINE CHARGE :	3200
+PATIENT BED :	8
+			*************************************************************
+			*                      APPOINTMENT                          *
+			*************************************************************
+DOCTOR ID :	003
+DOCTOR NAME :	jabbar
+DOCTOR SPECIALIZATION :	heart
+APPOINTMENT SLOT : 5am-6am
+*****************PATIENT**********************
+PATIENT ID :	001
+PATIENT PASSWORD :	1231231
+PATIENT NAME :	nayab
+PATIENT ADDRESS :	123123
+PATIENT MOBILE NUMBER :	123123234234324
+PATIENT AGE :	123
+PATIENT DISEASE :	heart
+PATIENT ROOM :	8
+PATIENT CONDITION :	normal
+PATIENT ADMIT DATE :	12-3-2022
+PATIENT ROOM CHARGE :	12312
+PATIENT MEDICINE CHARGE :	123123
+PATIENT BED :	11

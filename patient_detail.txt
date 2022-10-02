@@ -1,0 +1,36 @@
+							**********************************************************************************
+							*                                                                                *
+							*                               PATIENTS  DETAIL                                 *
+							*                                                                                *
+							**********************************************************************************
+ID :	009
+PASSWORD :	1234
+NAME :	asdf
+ADDRESS :	asdf
+MOBILE NUMBER :	11111111111
+AGE :	12
+DISEASE :	dsf
+ROOM :	0
+CONDITION :	xcf
+ADMIT DATE :	34-33-2012
+ROOM CHARGE :	123
+MEDICINE CHARGE :	99
+BED :	66
+							**********************************************************************************
+							*                                                                                *
+							*                               PATIENTS  DETAIL                                 *
+							*                                                                                *
+							**********************************************************************************
+ID :	002
+PASSWORD :	134123awda
+NAME :	nayab
+ADDRESS :	serwerwcw
+MOBILE NUMBER :	356345653645634
+AGE :	12
+DISEASE :	heart
+ROOM :	14
+CONDITION :	normal
+ADMIT DATE :	12-21-2222
+ROOM CHARGE :	1231
+MEDICINE CHARGE :	131
+BED :	100

@@ -1,0 +1,54 @@
+							**********************************************************************************
+							*                                                                                *
+							*                               DOCTORS  DETAIL                                 *
+							*                                                                                *
+							**********************************************************************************
+ID :	001
+PASSWORD :	1233211
+NAME :	Ahmad
+ADDRESS :	gulgarg lahore
+MOBILE NUMBER :	123123123122
+AGE :	21
+QUALIFICATION :	MBBS
+SPECIALIZATION :	lungs
+EXPERIENCE :	2
+CITY :	Lahore
+SLOT-1 :	1pm-2pm
+SLOT-2 :	2pm-3pm
+SLOT-3 :	3pm-4pm
+							**********************************************************************************
+							*                                                                                *
+							*                               DOCTORS  DETAIL                                 *
+							*                                                                                *
+							**********************************************************************************
+ID :	002
+PASSWORD :	adfadf
+NAME :	Ali
+ADDRESS :	adfadfadsf
+MOBILE NUMBER :	234234234234324
+AGE :	21
+QUALIFICATION :	BDS
+SPECIALIZATION :	eyes
+EXPERIENCE :	3
+CITY :	Islamabad
+SLOT-1 :	3pm-4pm
+SLOT-2 :	4pm-5pm
+SLOT-3 :	5pm-6pm
+							**********************************************************************************
+							*                                                                                *
+							*                               DOCTORS  DETAIL                                 *
+							*                                                                                *
+							**********************************************************************************
+ID :	003
+PASSWORD :	123123
+NAME :	jabbar
+ADDRESS :	gujranwala
+MOBILE NUMBER :	23423423423
+AGE :	12
+QUALIFICATION :	MBBS
+SPECIALIZATION :	heart
+EXPERIENCE :	2
+CITY :	gujranwala
+SLOT-1 :	3am-4am
+SLOT-2 :	4am-5am
+SLOT-3 :	5am-6am
